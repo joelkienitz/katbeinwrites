@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}"{{ if .Site.Params.enableDarkMode }}{{ with .Site.Params.defaultTheme | default "light" }} data-theme="{{ . }}"{{ end }}{{ end }}>
+    {{ partial "head.html" . }}
+    <body>
+        <div class="container">
+            {{ if .IsHome }}
+            <div class="home-hero" style="background-image: url('/img/kat-bein-shopping-cart.jpg');">'
+                <div class="hero-text">
+                    <h1 class="animated fadeInLeft delay-300">Hi!</h1>
+                    <h1 class="animated fadeInLeft delay-600 pink">I'm Kat</h1>
+                    <h1 class="animated fadeInLeft delay-900">and I'm from<br>the future</h1>
+                </div>
+            </div>
+            <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+            <script>
+                jQuery(function($) {
+                    var $nav = $('.header');
+                    var $win = $(window);
+                    var winH = $win.height(); // Get the window height.
+
+                    $win.on("scroll", function () {
+                        if ($(this).scrollTop() > winH ) {
+                            $nav.addClass("fixed");
+                        } else {
+                            $nav.removeClass("fixed");
+                        }
+                    }).on("resize", function(){ // If the user resizes the window
+                    winH = $(this).height(); // you'll need the new height value
+                    });
+                    });
+            </script>
+            {{ end }}
+            {{ partial "header.html" . }}
+            {{ if ne .Site.Params.headerLayout "flex" }}
+                {{ if or (and .IsHome .Site.Params.displayMenuInHome) (and (not .IsHome) .Site.Params.enableMenu) }}
+                    {{ partial "menu.html" . }}
+                {{ end }}
+                {{ partial "components/multilingual.html" . }}
+                {{ partial "components/dark-mode.html" . }}
+            {{ end }}
+            {{ block "main" . }}{{ end }}
+            {{ partial "components/back-to-top.html" . }}
+            {{ partial "footer.html" . }}
+        </div>
+        {{ partial "script.html" . }}
+
+    </body>
+</html>

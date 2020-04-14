@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title type="text">Kat Bein Writes.</title>
+    <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
+    <updated>2020-04-14T16:54:20-05:00</updated>
+    <id>https://example.com/</id>
+    <link rel="alternate" type="text/html" href="https://example.com/" />
+    <link rel="self" type="application/atom+xml" href="https://example.com/atom.xml" />
+    <author>
+            <name>Kat Bein</name>
+            <uri>https://example.com/</uri>
+            
+                <email>katsayskill@gmail.com</email>
+            </author>
+    
+    <generator uri="https://gohugo.io/" version="0.67.1">Hugo</generator>
+        <entry>
+            <title type="text">Metro Boomin and Uncle Jxm Lit Up The FADER’s Boom Basel Party</title>
+            <link rel="alternate" type="text/html" href="https://example.com/post/metro-boomin-art-base-photos-boom-basel/" />
+            <id>https://example.com/post/metro-boomin-art-base-photos-boom-basel/</id>
+            <updated>2020-04-09T23:15:19-05:00</updated>
+            <published>2020-04-09T00:00:00+00:00</published>
+            <author>
+                    <name>Kat Bein</name>
+                    <uri>whereiskatbein.com</uri>
+                    <email>katsayskill@gmail.com</email>
+                    </author>
+            <summary type="html"><![CDATA[Everything that happened at The FADER and Toyota Corolla’s two-day Basel party — new Drake verses, holographic manicures and more.]]></summary>
+            
+                <content type="html"><![CDATA[<p><img src="/img/metro-boomin-art-basel-photos-boom-basel.jpg" alt="Example image"></p>
+<h1 id="this-is-a-header">THIS IS A HEADER</h1>
+<h2 id="this-an-h2">THIS AN H2</h2>
+<h3 id="this-is-an-h3">This is an h3</h3>
+<p>Most of Miami turned up for Saturday night’s Boom Basel blow-out, presented by The FADER and Toyota Corolla. There was a line down the block leading into the MAPS Backlot in the city&rsquo;s Wynwood Arts district. Guests were greeted with works on display; Yung Jake’s emoji portraits of Gucci Mane, The Weeknd, and more were a crowd favorite, and a mural from local Mwanel Pierre-Louis was freshly-painted. New York-based DJ Brenmar treated the dance floor to a preview of his “Fake Love” remix, scheduled to drop later in the week.</p>
+<p>Then Uncle Jxm — aka Slim Jxmmi of Rae Sremmurd, who knows how to get a party going behind the decks as well as on the mic — took over, delivering a set of Southern favorites with Swae Lee, Mike WiLL Made-It, and the rest of the SremmLife Crew at his side. Cameras flashed as Swae Lee rapped along to “Black Beatles,” and even more so when Jxmmi dropped a sneak peak at a new tune with Drake. “That’s all you get for free,” he joked as he cut the record mid Drizzy verse.</p>
+<p>The party was packed when Tommy Genesis took the stage for an inspired set, warming up the crowd for superstar headliner Metro Boomin. It was a whiplash of hits as soon as Metro hit the stage, a massive mix of radio favorites, classic ATL cuts, and the superstar’s personal productions.</p>
+<p><img src="/img/metro-boomin-tristan-mack-wilds.jpg" alt="Example image"></p>
+<p>“Make some noise for the King of Bankhead,” Metro yelled as he went into a mix of Shawty Lo classics. “I need to go in before they shut me down.”</p>
+<p>Later, as “Father Stretch My Hands Pt 1” played, arms extended toward the sky. It was a monster of a night — one Miami won’t soon forget, and one we&rsquo;d like to do all again.</p>
+<p>Boom Basel continued on Sunday afternoon, when Miami&rsquo;s permanent summer brought backyard BBQ vibes to the MAPS Backlot.</p>
+<p>DJs Brenmar and Uncle Jxm returned to celebrate Basel 2016&rsquo;s final day with The FADER. As they played jams, cool kids Snapchatted the work of Alexa Meade, who painted models head-to-toe.</p>
+<p>Guests were lined up for manicures by Floss Gloss and Vanity Projects. Partygoers chose from one of six colorful designs inspired by muralist FRKO, whose Versace-shaded, gold-toothed dolphin graced the wall behind the DJ booth. Burgers and fries were on deck, and people played corn hole and posed for pictures in a gif booth.</p>
+<p><img src="/img/uncle-jxm.jpg" alt="Example image"></p>
+<p>During his afternoon set, Rae Sremmurd&rsquo;s Uncle Jxm finessed the laid-back masses onto the dance floor, rapping along to whatever 2 Chainz or Jeezy song was in rotation, and leading the them in a quick, somewhat ironic Mannequin Challenge as he played his group&rsquo;s No. 1 single, &ldquo;Black Beatles.&rdquo;</p>
+<p>Brenmar closed out the afternoon as dancers grabbed copies of The FADER. Outside, graffiti artists put the final touches on giant murals in the setting Miami sun. The smell of spray paint wafted through the air, and though the party came to an end at 5 p.m., the marks Boom Basel made on the city and those who participated in it will last for months to come.</p>
+]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/categories/music/" term="music" label="music" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/categories/hip-hop/" term="hip-hop" label="hip-hop" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/markdown/" term="markdown" label="markdown" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/css/" term="css" label="css" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/html/" term="html" label="html" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/themes/" term="themes" label="themes" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Markdown Syntax Guide</title>
+            <link rel="alternate" type="text/html" href="https://example.com/post/markdown-syntax/" />
+            <id>https://example.com/post/markdown-syntax/</id>
+            <updated>2020-04-13T14:39:14-05:00</updated>
+            <published>2019-03-11T00:00:00+00:00</published>
+            <author>
+                    <name>Kat Bein</name>
+                    <uri>whereiskatbein.com</uri>
+                    <email>katsayskill@gmail.com</email>
+                    </author>
+            <summary type="html"><![CDATA[Sample article showcasing basic Markdown syntax and formatting for HTML elements.]]></summary>
+            
+                <content type="html"><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.</p>
+<h2 id="headings">Headings</h2>
+<p>The following HTML <code>&lt;h1&gt;</code>—<code>&lt;h6&gt;</code> elements represent six levels of section headings. <code>&lt;h1&gt;</code> is the highest section level while <code>&lt;h6&gt;</code> is the lowest.</p>
+<h1 id="h1">H1</h1>
+<h2 id="h2">H2</h2>
+<h3 id="h3">H3</h3>
+<h4 id="h4">H4</h4>
+<h5 id="h5">H5</h5>
+<h6 id="h6">H6</h6>
+<h2 id="paragraph">Paragraph</h2>
+<p>Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.</p>
+<p>Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.</p>
+<h2 id="blockquotes">Blockquotes</h2>
+<p>The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a <code>footer</code> or <code>cite</code> element, and optionally with in-line changes such as annotations and abbreviations.</p>
+<h4 id="blockquote-without-attribution">Blockquote without attribution</h4>
+<blockquote>
+<p>Tiam, ad mint andaepu dandae nostion secatur sequo quae.
+<strong>Note</strong> that you can use <em>Markdown syntax</em> within a blockquote.</p>
+</blockquote>
+<h4 id="blockquote-with-attribution">Blockquote with attribution</h4>
+<blockquote>
+<p>Don&rsquo;t communicate by sharing memory, share memory by communicating.</p>
+— <cite>Rob Pike<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></cite></p>
+</blockquote>
+<h2 id="tables">Tables</h2>
+<p>Tables aren&rsquo;t part of the core Markdown spec, but Hugo supports supports them out-of-the-box.</p>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Age</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bob</td>
+<td>27</td>
+</tr>
+<tr>
+<td>Alice</td>
+<td>23</td>
+</tr>
+</tbody>
+</table>
+<h4 id="inline-markdown-within-tables">Inline Markdown within tables</h4>
+<table>
+<thead>
+<tr>
+<th>Inline   </th>
+<th>Markdown   </th>
+<th>In   </th>
+<th>Table</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>italics</em></td>
+<td><strong>bold</strong></td>
+<td><del>strikethrough</del>   </td>
+<td><code>code</code></td>
+</tr>
+</tbody>
+</table>
+<h2 id="code-blocks">Code Blocks</h2>
+<h4 id="code-block-with-backticks">Code block with backticks</h4>
+<pre><code>html
+&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+  &lt;meta charset=&quot;UTF-8&quot;&gt;
+  &lt;title&gt;Example HTML5 Document&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+  &lt;p&gt;Test&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</code></pre><h4 id="code-block-indented-with-four-spaces">Code block indented with four spaces</h4>
+<pre><code>&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+  &lt;meta charset=&quot;UTF-8&quot;&gt;
+  &lt;title&gt;Example HTML5 Document&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+  &lt;p&gt;Test&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</code></pre>
+<h4 id="code-block-with-hugos-internal-highlight-shortcode">Code block with Hugo&rsquo;s internal highlight shortcode</h4>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-html" data-lang="html"><span class="cp">&lt;!DOCTYPE html&gt;</span>
+<span class="p">&lt;</span><span class="nt">html</span> <span class="na">lang</span><span class="o">=</span><span class="s">&#34;en&#34;</span><span class="p">&gt;</span>
+<span class="p">&lt;</span><span class="nt">head</span><span class="p">&gt;</span>
+  <span class="p">&lt;</span><span class="nt">meta</span> <span class="na">charset</span><span class="o">=</span><span class="s">&#34;UTF-8&#34;</span><span class="p">&gt;</span>
+  <span class="p">&lt;</span><span class="nt">title</span><span class="p">&gt;</span>Example HTML5 Document<span class="p">&lt;/</span><span class="nt">title</span><span class="p">&gt;</span>
+<span class="p">&lt;/</span><span class="nt">head</span><span class="p">&gt;</span>
+<span class="p">&lt;</span><span class="nt">body</span><span class="p">&gt;</span>
+  <span class="p">&lt;</span><span class="nt">p</span><span class="p">&gt;</span>Test<span class="p">&lt;/</span><span class="nt">p</span><span class="p">&gt;</span>
+<span class="p">&lt;/</span><span class="nt">body</span><span class="p">&gt;</span>
+<span class="p">&lt;/</span><span class="nt">html</span><span class="p">&gt;</span></code></pre></td></tr></table>
+</div>
+</div>
+<h2 id="list-types">List Types</h2>
+<h4 id="ordered-list">Ordered List</h4>
+<ol>
+<li>First item</li>
+<li>Second item</li>
+<li>Third item</li>
+</ol>
+<h4 id="unordered-list">Unordered List</h4>
+<ul>
+<li>List item</li>
+<li>Another item</li>
+<li>And another item</li>
+</ul>
+<h4 id="nested-list">Nested list</h4>
+<ul>
+<li>Item</li>
+</ul>
+<ol>
+<li>First Sub-item</li>
+<li>Second Sub-item</li>
+</ol>
+<h2 id="other-elements--abbr-sub-sup-kbd-mark">Other Elements — abbr, sub, sup, kbd, mark</h2>
+<p><abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.</p>
+<p>H<sub>2</sub>O</p>
+<p>X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup></p>
+<p>Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.</p>
+<p>Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.</p>
+<section class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1" role="doc-endnote">
+<p>The above quote is excerpted from Rob Pike&rsquo;s <a href="https://www.youtube.com/watch?v=PAAkCSZUG1c">talk</a> during Gopherfest, November 18, 2015. <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/categories/themes/" term="themes" label="themes" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/categories/syntax/" term="syntax" label="syntax" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/markdown/" term="markdown" label="markdown" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/css/" term="css" label="css" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/html/" term="html" label="html" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/themes/" term="themes" label="themes" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Rich Content</title>
+            <link rel="alternate" type="text/html" href="https://example.com/post/rich-content/" />
+            <id>https://example.com/post/rich-content/</id>
+            <updated>2020-04-13T14:39:34-05:00</updated>
+            <published>2019-03-10T00:00:00+00:00</published>
+            <author>
+                    <name>Kat Bein</name>
+                    <uri>whereiskatbein.com</uri>
+                    <email>katsayskill@gmail.com</email>
+                    </author>
+            <summary type="html"><![CDATA[A brief description of Hugo Shortcodes]]></summary>
+            
+                <content type="html"><![CDATA[<p>Hugo ships with several <a href="https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes">Built-in Shortcodes</a> for rich content, along with a <a href="https://gohugo.io/about/hugo-and-gdpr/">Privacy Config</a> and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.</p>
+<hr>
+<h2 id="instagram-simple-shortcode">Instagram Simple Shortcode</h2>
+
+
+
+
+<style type="text/css">
+   .__h_instagram.card {
+      font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+      font-size: 14px;
+      border: 1px solid rgb(219, 219, 219);
+      padding: 0;
+	  margin-top: 30px;
+   }
+   .__h_instagram.card .card-header, .__h_instagram.card .card-body {
+      padding: 10px 10px 10px;
+   }
+   .__h_instagram.card img {
+      width: 100%;
+    	height: auto;
+   }
+</style>
+
+<div class="__h_instagram s_instagram_simple card" style="max-width: 640px">
+	<div class="card-header">
+    <a href="https://www.instagram.com/katsayskill" class="card-link">katsayskill</a>
+  </div>
+	<a href="https://instagram.com/p/B8eJs5gA9fJ/" rel="noopener" target="_blank"><img class="card-img-top img-fluid" src="https://scontent-ort2-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/p640x640/84019143_512526076363802_3761111699915034394_n.jpg?_nc_ht=scontent-ort2-1.cdninstagram.com&amp;_nc_cat=102&amp;_nc_ohc=g1tiTjFpmxsAX9SJ-ea&amp;oh=b3e08c3c410d826e070623daf3d5298b&amp;oe=5EBEA7CA" width="640"  height="659" alt="Instagram Image"></a>
+	<div class="card-body">
+		<p class="card-text"><a href="https://www.instagram.com/katsayskill" class="card-link">katsayskill</a> Another awesome shot from my colorful, back-alley photo shoot with the incredible @martaxperez 📸 ☺</p>
+		<a href="https://www.instagram.com/katsayskill" class="card-link">View More on Instagram</a>
+	</div>
+</div>
+
+<br>
+<hr>
+<h2 id="youtube-privacy-enhanced-shortcode">YouTube Privacy Enhanced Shortcode</h2>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/v3vX14RCaC8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<br>
+<hr>
+<h2 id="twitter-simple-shortcode">Twitter Simple Shortcode</h2>
+
+
+
+
+<style type="text/css">
+  .twitter-tweet {
+  font: 14px/1.45 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+  border-left: 4px solid #2b7bb9;
+  padding-left: 1.5em;
+  color: #555;
+}
+  .twitter-tweet a {
+  color: #2b7bb9;
+  text-decoration: none;
+}
+  blockquote.twitter-tweet a:hover,
+  blockquote.twitter-tweet a:focus {
+  text-decoration: underline;
+}
+</style>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">WHO IS THIS MAN?! SOMEONE TELL ME <a href="https://t.co/hth4OaAJGS">https://t.co/hth4OaAJGS</a></p>&mdash; Kat Bein (@KatSaysKill) <a href="https://twitter.com/KatSaysKill/status/1248823501097701376?ref_src=twsrc%5Etfw">April 11, 2020</a></blockquote>
+
+<br>
+<hr>
+<h2 id="vimeo-simple-shortcode">Vimeo Simple Shortcode</h2>
+
+
+
+
+
+<style>
+.__h_video {
+   position: relative;
+   padding-bottom: 56.23%;
+   height: 0;
+   overflow: hidden;
+   width: 100%;
+   background: #000;
+}
+.__h_video img {
+   width: 100%;
+   height: auto;
+   color: #000;
+}
+.__h_video .play {
+   height: 72px;
+   width: 72px;
+   left: 50%;
+   top: 50%;
+   margin-left: -36px;
+   margin-top: -36px;
+   position: absolute;
+   cursor: pointer;
+}
+</style>
+
+
+<div class="s_video_simple __h_video">
+<a href="https://vimeo.com/4.8912912e&#43;07" rel="noopener" target="_blank">
+
+
+<img src="https://i.vimeocdn.com/video/337401969_640.jpg" srcset="https://i.vimeocdn.com/video/337401969_640.jpg 1x, https://i.vimeocdn.com/video/337401969.jpg 2x" alt="Sing Jan Swing - Kinetic Type">
+<div class="play"><svg version="1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 61 61"><circle cx="30.5" cy="30.5" r="30.5" opacity=".8" fill="#000"></circle><path d="M25.3 19.2c-2.1-1.2-3.8-.2-3.8 2.2v18.1c0 2.4 1.7 3.4 3.8 2.2l16.6-9.1c2.1-1.2 2.1-3.2 0-4.4l-16.6-9z" fill="#fff"></path></svg></div></a></div>]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/shortcodes/" term="shortcodes" label="shortcodes" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/privacy/" term="privacy" label="privacy" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Placeholder Text</title>
+            <link rel="alternate" type="text/html" href="https://example.com/post/placeholder-text/" />
+            <id>https://example.com/post/placeholder-text/</id>
+            <updated>2020-04-13T14:39:26-05:00</updated>
+            <published>2019-03-09T00:00:00+00:00</published>
+            <author>
+                    <name>Kat Bein</name>
+                    <uri>whereiskatbein.com</uri>
+                    <email>katsayskill@gmail.com</email>
+                    </author>
+            <summary type="html"><![CDATA[Lorem Ipsum Dolor Si Amet]]></summary>
+            
+                <content type="html"><![CDATA[<p>Lorem est tota propiore conpellat pectoribus de
+pectora summo.</p>
+<p>Redit teque digerit hominumque toris verebor lumina non cervice
+subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc
+caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis
+lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.</p>
+<ol>
+<li>Exierant elisi ambit vivere dedere</li>
+<li>Duce pollice</li>
+<li>Eris modo</li>
+<li>Spargitque ferrea quos palude</li>
+</ol>
+<p>Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus
+silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria
+tractus malis.</p>
+<ol>
+<li>Comas hunc haec pietate fetum procerum dixit</li>
+<li>Post torum vates letum Tiresia</li>
+<li>Flumen querellas</li>
+<li>Arcanaque montibus omnes</li>
+<li>Quidem et</li>
+</ol>
+<h1 id="vagus-elidunt">Vagus elidunt</h1>
+<p><svg class="canon" xmlns="http://www.w3.org/2000/svg" overflow="visible" viewBox="0 0 496 373" height="373" width="496"><g fill="none"><path stroke="#000" stroke-width=".75" d="M.599 372.348L495.263 1.206M.312.633l494.95 370.853M.312 372.633L247.643.92M248.502.92l246.76 370.566M330.828 123.869V1.134M330.396 1.134L165.104 124.515"></path><path stroke="#ED1C24" stroke-width=".75" d="M275.73 41.616h166.224v249.05H275.73zM54.478 41.616h166.225v249.052H54.478z"></path><path stroke="#000" stroke-width=".75" d="M.479.375h495v372h-495zM247.979.875v372"></path><ellipse cx="498.729" cy="177.625" rx=".75" ry="1.25"></ellipse><ellipse cx="247.229" cy="377.375" rx=".75" ry="1.25"></ellipse></g></svg></p>
+<p><a href="https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon">The Van de Graaf Canon</a></p>
+<h2 id="mane-refeci-capiebant-unda-mulcebat">Mane refeci capiebant unda mulcebat</h2>
+<p>Victa caducifer, malo vulnere contra
+dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere
+furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. <strong>Faces illo pepulere</strong> tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.</p>
+<p>Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli
+Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare
+Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert
+ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae
+vulnus haerentia iuste et exercebat, sui et.</p>
+<p>Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel <strong>mitis temploque</strong> vocatus, inque alis, <em>oculos nomen</em> non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem
+Propoetides <strong>parte</strong>.</p>]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/markdown/" term="markdown" label="markdown" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/text/" term="text" label="text" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Emoji Support</title>
+            <link rel="alternate" type="text/html" href="https://example.com/post/emoji-support/" />
+            <id>https://example.com/post/emoji-support/</id>
+            <updated>2020-04-13T13:44:12-05:00</updated>
+            <published>2019-03-05T00:00:00+00:00</published>
+            <author>
+                    <name>Kat Bein</name>
+                    <uri>whereiskatbein.com</uri>
+                    <email>katsayskill@gmail.com</email>
+                    </author>
+            <summary type="html"><![CDATA[Guide to emoji usage in Hugo]]></summary>
+            
+                <content type="html"><![CDATA[<p>Emoji can be enabled in a Hugo project in a number of ways.</p>
+<p>The <a href="https://gohugo.io/functions/emojify/"><code>emojify</code></a> function can be called directly in templates or <a href="https://gohugo.io/templates/shortcode-templates/#inline-shortcodes">Inline Shortcodes</a>.</p>
+<p>To enable emoji globally, set <code>enableEmoji</code> to <code>true</code> in your site’s <a href="https://gohugo.io/getting-started/configuration/">configuration</a> and then you can type emoji shorthand codes directly in content files; e.g.</p>
+<p><span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span></p>
+<br>
+<p>The <a href="http://www.emoji-cheat-sheet.com/">Emoji cheat sheet</a> is a useful reference for emoji shorthand codes.</p>
+<hr>
+<p><strong>N.B.</strong> The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-html" data-lang="html">.emoji {
+font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,Android Emoji,EmojiSymbols;
+}</code></pre></td></tr></table>
+</div>
+</div>]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/emoji/" term="emoji" label="emoji" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+</feed>

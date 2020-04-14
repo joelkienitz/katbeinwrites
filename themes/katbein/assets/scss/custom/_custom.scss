@@ -1,0 +1,56 @@
+@import "animate.scss";
+@import "cards.scss";
+
+
+.main-inner {
+    width: 40rem;
+}
+
+.fixed {
+    position: fixed;
+    top: 0;
+}
+
+.home-hero {
+    display: flex;
+    align-items: flex-start;
+    background-size: cover;
+    height: 100vh;
+    background-attachment: fixed;
+    position: relative;
+
+    .hero-text {
+        position: absolute;
+        top: 24%;
+        left: 15%;
+    }
+
+    h1 {
+        color: black;
+        font-size: 4rem;
+        padding-bottom: 0rem;
+        line-height: 4rem;
+        margin: 0;
+
+        &.pink {
+            color: #d741A7;
+        }
+
+        &.delay-300 {
+            animation-delay: 300ms;
+        }
+        &.delay-600 {
+            animation-delay: 1100ms;
+        }
+        &.delay-900 {
+            animation-delay: 1900ms;
+        }
+    }
+}
+
+.content a{
+    
+    &:hover {
+        color: #d741A7;
+    }
+}

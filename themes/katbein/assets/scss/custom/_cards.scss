@@ -1,0 +1,61 @@
+.home-cards {
+    width: 60em;
+    max-width: 100%;
+    margin: 0 auto;
+    display: grid;
+    grid-gap: 1rem;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    margin-top: 5rem;
+    padding-bottom: 5rem;
+
+
+    .card {
+        color: white;
+        margin-top: .5rem;
+
+        .image-wrapper {
+            position: relative;
+            padding-bottom: 56.2%;
+        }
+
+        img {
+            margin: 0;
+            position: absolute;
+            object-fit: cover;
+            width: 100%;
+            height: 100%;
+        }
+
+        h2.post-title {
+            font-size: 1.2rem;
+            line-height: 1.5rem;
+            margin: 1rem 0 0 0;
+        }
+        .summary {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 100%;
+            width: 100%;
+            opacity: 0;
+            transition: .5s ease;
+            background-color: #333;
+            display: flex;
+            align-items: center;
+
+            p {
+                color: white;
+                font-size: 20px;
+                padding: 0 1rem;
+            }
+        }
+
+        &:hover {
+            .summary {
+                opacity: .75;
+            }
+        }
+    }
+}

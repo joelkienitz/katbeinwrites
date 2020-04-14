@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://example.com/categories/</loc>
+    <lastmod>2020-04-13T14:39:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/css/</loc>
+    <lastmod>2020-04-13T14:39:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/hip-hop/</loc>
+    <lastmod>2020-04-09T23:15:19-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/html/</loc>
+    <lastmod>2020-04-13T14:39:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/markdown/</loc>
+    <lastmod>2020-04-13T14:39:26-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/post/metro-boomin-art-base-photos-boom-basel/</loc>
+    <lastmod>2020-04-09T23:15:19-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/music/</loc>
+    <lastmod>2020-04-09T23:15:19-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2020-04-13T14:39:34-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/themes/</loc>
+    <lastmod>2020-04-13T14:39:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/link/</loc>
+    <lastmod>2020-04-09T23:30:31-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/link/jack-u-album-5-years-skrillex-diplo/</loc>
+    <lastmod>2020-04-09T23:30:31-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/archives/</loc>
+    <lastmod>2020-02-09T22:54:46-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/post/markdown-syntax/</loc>
+    <lastmod>2020-04-13T14:39:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/syntax/</loc>
+    <lastmod>2020-04-13T14:39:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/themes/</loc>
+    <lastmod>2020-04-13T14:39:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/privacy/</loc>
+    <lastmod>2020-04-13T14:39:34-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/post/rich-content/</loc>
+    <lastmod>2020-04-13T14:39:34-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/shortcodes/</loc>
+    <lastmod>2020-04-13T14:39:34-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/post/placeholder-text/</loc>
+    <lastmod>2020-04-13T14:39:26-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/text/</loc>
+    <lastmod>2020-04-13T14:39:26-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/emoji/</loc>
+    <lastmod>2020-04-13T13:44:12-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/post/emoji-support/</loc>
+    <lastmod>2020-04-13T13:44:12-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/about/</loc>
+    <lastmod>2020-02-09T22:54:46-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2020-02-09T22:54:46-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/index/</loc>
+    <lastmod>2020-02-09T22:54:46-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2020-02-09T22:54:46-06:00</lastmod>
+  </url>
+  
+</urlset>
